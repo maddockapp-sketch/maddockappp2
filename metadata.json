@@ -1,0 +1,5 @@
+{
+  "name": "Maddock Tattoo PWA",
+  "description": "A Progressive Web App for the Maddock Tattoo studio, featuring client booking, an AI-powered aftercare chat, and a comprehensive admin panel for studio management.",
+  "requestFramePermissions": []
+}
